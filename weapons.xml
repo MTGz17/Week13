@@ -1,0 +1,32 @@
+<weapon>
+    <name>Regular</name>
+    <damage>1</damage>
+</weapon>
+<weapon>
+    <name>Sniper</name>
+    <damage>1</damage>
+</weapon>
+<weapon>
+    <name>Shotgun</name>
+    <damage>3</damage>
+</weapon>
+<weapon>
+    <name>Dual</name>
+    <damage>1</damage>
+</weapon>
+<level>
+    <name>Castle</name>
+    <area>1</area>
+</level>
+<level>
+    <name>Cave</name>
+    <area>2</area>
+</level>
+<level>
+    <name>Descend</name>
+    <area>3</area>
+</level>
+<level>
+    <name>Hell</name>
+    <area>4</area>
+</level>

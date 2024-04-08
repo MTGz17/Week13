@@ -1,0 +1,38 @@
+{
+	"inventory": [
+        {
+            "name": "Regular",
+            "damage": 1
+        },
+        {
+            "name": "Sniper",
+            "damage": 1
+        },
+        {
+            "name": "Shotgun",
+            "damage": 3
+        },
+        {
+            "name": "Dual",
+            "damage": 1
+        }        
+    ],
+    "levels": [
+        {
+            "name": "Castle",
+            "area": 1
+        },
+        {
+            "name": "Cave",
+            "area": 2
+        },
+        {
+            "name": "Descend",
+            "area": 3
+        },
+        {
+            "name": "Hell",
+            "area": 4
+        }      
+    ]
+}
